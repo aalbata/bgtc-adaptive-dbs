@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article that describes it."
+title: "Feedback as automatic dose selection in a basal ganglia-thalamocortical model of adaptive deep brain stimulation"
+type: software
+license: MIT
+repository-code: "https://github.com/aalbata/bgtc-adaptive-dbs"
+authors:
+  - family-names: Nawaz
+    given-names: Asif
+  - family-names: Shareef
+    given-names: Zahid
+  - family-names: Ahmed
+    given-names: Irfan
+  - family-names: Gdeisat
+    given-names: Munther
+  - family-names: Hai
+    given-names: Nguyen
+  - family-names: Fayyaz
+    given-names: Zobia
+  - family-names: Numan
+    given-names: Ahsan
+  - family-names: Al Bataineh
+    given-names: Ali
